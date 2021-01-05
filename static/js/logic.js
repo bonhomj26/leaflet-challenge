@@ -2,6 +2,7 @@
 
 // Earthquakes & Tectonic Plates GeoJSON URL Variables
 var earthquakesURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
+//var EarthquakesURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson"
 var platesURL = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
 
 // Initialize & Create Two Separate LayerGroups: earthquakes & tectonicPlates
